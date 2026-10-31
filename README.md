@@ -9,4 +9,10 @@ An ML project that predicts an employee's Burn Rate (0 to 1) from work details l
 ## Team
 - Divy Mangukiya (508)
 - Harsh Kathiriya (558)
-    
+
+## Features
+- Data cleaning: duplicates, missing values, text standardisation
+- Automated EDA reports with Sweetviz
+- Charts: histograms, boxplots, bar and pie charts, correlation heatmap
+- Linear Regression model with R2, MAE, MSE and RMSE
+- Burnout risk level (LOW / MEDIUM / HIGH) for a new employee
